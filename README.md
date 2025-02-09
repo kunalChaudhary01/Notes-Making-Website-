@@ -1,2 +1,2 @@
 # Notes-Making-Website-
-This
+This is a dynamic and interactive Notes Taking web application developed using HTML, CSS, and JavaScript. It allows users to add, edit, and delete notes easily. The application uses localStorage to persist data across browser sessions. Users can manage their notes with an intuitive interface, which includes features like a theme toggle to switch between dark and light modes for better readability. Notes are organized with a title, description, and date, and the application also supports a confirmation prompt for deleting notes. It offers a seamless experience for users to stay organized and keep track of important information.
